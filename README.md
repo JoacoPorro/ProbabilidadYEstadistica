@@ -1,4 +1,4 @@
-# ProbabilidadYEstadistica
+# Probabilidad Y Estadistica
 Material de Probabilidad Y Estadística FIUBA
 
 Drives:
