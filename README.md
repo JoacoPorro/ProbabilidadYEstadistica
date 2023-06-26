@@ -1,6 +1,8 @@
 # Probabilidad Y Estadistica
 Material de Probabilidad Y Estadística FIUBA
 
+Dejame una ⭐!
+
 Drives:
 * https://drive.google.com/drive/u/2/folders/1PAJKuh2kFNPzW2RoUcSdV-6ZhmW4pJxs
 * https://drive.google.com/drive/u/2/folders/1--lR6p81p4cjZ5Ri7sARuDqM4IF9XoW4
@@ -10,6 +12,5 @@ Drives:
 * https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ
 
 Clases:
+* https://www.youtube.com/@probabilidadfiuba3120
 * https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR
-
-Dejame una ⭐!
