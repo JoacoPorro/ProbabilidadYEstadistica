@@ -10,7 +10,7 @@ Drives:
 * https://drive.google.com/drive/folders/1ggMa1NiSzPCd2V-idKVnpRCTPAW57IDi
 * https://drive.google.com/drive/folders/12BjcKTyoqhA7jnqDR1zJ0McD71sUJZXq
 * https://drive.google.com/drive/folders/1PO2xQK11sZWGZXj_M4xVDUZs0fggCDMk
-* (Viejo)https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ
+* (Viejo) https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ
   
 Clases:
 * https://www.youtube.com/@probabilidadfiuba3120
