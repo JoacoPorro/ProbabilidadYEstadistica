@@ -1,7 +1,6 @@
 # Probabilidad Y Estadistica
-Material de Probabilidad Y Estadística FIUBA
-
-Dejame una ⭐!
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
 
 Drives:
 * (El mejor) https://drive.google.com/drive/folders/1tRqQyOwLZJSx4_ZDCwJfFSEjIsBxJu9z
