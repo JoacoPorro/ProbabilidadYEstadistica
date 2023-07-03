@@ -14,6 +14,9 @@ Drives:
 Clases:
 * https://www.youtube.com/@probabilidadfiuba3120
 * https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR
+
+Resumenes:
+* https://drive.google.com/file/d/19s9ESnYImeJ4LzcnBUoE0YNc3TU87oLb/view?usp=drivesdk 
   
 Repos:
 * https://github.com/carolinamauro/Probabilidad-y-estadistica
