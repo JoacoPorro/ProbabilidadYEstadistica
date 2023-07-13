@@ -1,4 +1,4 @@
-# Probabilidad Y Estadistica &#10073; FIUBA
+# Probabilidad Y Estadistica ⎯ FIUBA
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Dejame una ⭐!
 
