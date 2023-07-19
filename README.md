@@ -1,5 +1,5 @@
 # Material Probabilidad Y Estadistica Fiuba
-###### Drives/Material -> jporro@fi.uba.ar
+###### Drives --> jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 Drives:
