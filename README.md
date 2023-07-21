@@ -11,8 +11,8 @@
 * https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ (Viejo) 
   
 #### Clases:
-* https://www.youtube.com/@probabilidadfiuba3120
-* https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR
+* [2C 2020](https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR)
+* [Youtube Probabilidad Fiuba](https://www.youtube.com/@probabilidadfiuba3120)
 
 #### Resumenes:
 * https://drive.google.com/file/d/19s9ESnYImeJ4LzcnBUoE0YNc3TU87oLb/view?usp=drivesdk
