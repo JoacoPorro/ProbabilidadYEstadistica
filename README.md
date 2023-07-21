@@ -15,7 +15,7 @@
 * [Youtube Probabilidad Fiuba](https://www.youtube.com/@probabilidadfiuba3120)
 
 #### Resumenes:
-* [Resumen videos](https://cmauro-fiuba.notion.site/cmauro-fiuba/Probabilidad-y-Estad-stica-a8f5312e07a2455cb62dd6d506fa0a4d) (De la repo de abajo)
+* [Resumen videos](https://cmauro-fiuba.notion.site/cmauro-fiuba/Probabilidad-y-Estad-stica-a8f5312e07a2455cb62dd6d506fa0a4d)
 * [Resumen Toda la Materia](https://drive.google.com/file/d/19s9ESnYImeJ4LzcnBUoE0YNc3TU87oLb/view?usp=drivesdk)
   
 #### Repos:
