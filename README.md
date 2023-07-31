@@ -10,7 +10,7 @@
 * https://drive.google.com/drive/folders/1PO2xQK11sZWGZXj_M4xVDUZs0fggCDMk
 * https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ (Viejo) 
   
-### Clases:
+### __Clases__:
 * [2C 2020](https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR)
 * [Youtube Probabilidad Fiuba](https://www.youtube.com/@probabilidadfiuba3120)
 
