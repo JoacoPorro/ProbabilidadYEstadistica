@@ -22,5 +22,8 @@
 ### Repos:
 * https://github.com/carolinamauro/Probabilidad-y-estadistica
 
+### Links:
+* [Material Por Guia](https://docs.google.com/spreadsheets/d/1Ua5OBPTVkiaymanxQbbowkSKePxODds8hVyqkyN5gR4/edit#gid=0)
+
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
