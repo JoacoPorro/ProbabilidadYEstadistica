@@ -24,6 +24,8 @@
 
 ### Links:
 * [Material Por Guia](https://docs.google.com/spreadsheets/d/1Ua5OBPTVkiaymanxQbbowkSKePxODds8hVyqkyN5gR4/edit#gid=0)
+* [Wiki Fiuba Proba B](http://wiki.foros-fiuba.com.ar/materias:61:09)
+* [Wiki Fiuba Proba A](http://wiki.foros-fiuba.com.ar/materias:61:06)
 
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
