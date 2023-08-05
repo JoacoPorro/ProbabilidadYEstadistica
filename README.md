@@ -15,9 +15,9 @@
 * [Youtube Probabilidad Fiuba](https://www.youtube.com/@probabilidadfiuba3120)
 
 ### Resumenes:
-* [Resumenes videos](https://cmauro-fiuba.notion.site/cmauro-fiuba/Probabilidad-y-Estad-stica-a8f5312e07a2455cb62dd6d506fa0a4d)
-* [Resumen](https://drive.google.com/file/d/1Z_z47NilPNSn8KoiZw7FPkHLn52bJK6n/view?usp=sharing)
 * [Resumen Completo](https://drive.google.com/file/d/14Mkb8J46TojK_myF4iqPvax0pHgh-miJ/view?usp=sharing)
+* [Resumen Formulas](https://drive.google.com/file/d/1Z_z47NilPNSn8KoiZw7FPkHLn52bJK6n/view?usp=sharing)
+* [Resumen Videos](https://cmauro-fiuba.notion.site/cmauro-fiuba/Probabilidad-y-Estad-stica-a8f5312e07a2455cb62dd6d506fa0a4d)
 * [Otro Resumen](https://drive.google.com/file/d/19s9ESnYImeJ4LzcnBUoE0YNc3TU87oLb/view?usp=drivesdk)
   
 ### Repos:
