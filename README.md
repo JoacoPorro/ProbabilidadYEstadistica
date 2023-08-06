@@ -13,6 +13,7 @@
 ### Clases:
 * [2C 2020](https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR)
 * [Youtube Probabilidad Fiuba](https://www.youtube.com/@probabilidadfiuba3120)
+* [Otros Videos](https://www.youtube.com/playlist?list=PLovUfzQicsXtqEsmK3tKbdOorzpVKb36t)
 
 ### Resumenes:
 * [Resumen Completo](https://drive.google.com/file/d/14Mkb8J46TojK_myF4iqPvax0pHgh-miJ/view?usp=sharing)
