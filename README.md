@@ -10,7 +10,6 @@
 * https://drive.google.com/drive/folders/1PO2xQK11sZWGZXj_M4xVDUZs0fggCDMk
 * https://drive.google.com/drive/folders/0BxuqHS6B2O0oMDV2Q0swdjRIamM?resourcekey=0-hkY98mcAoDxH-7JUpurgnQ (Viejo) 
 * [Notas de Grynberg](https://drive.google.com/drive/folders/1zJ7DtbHb9uEiro9sneswdlamlf45f6jM)
-* [Libros](https://drive.google.com/drive/folders/1HCzWKeZuRSKrdOBGJX8FtnPJvZwxyCc4)
   
 ### Clases:
 * [2C 2020](https://drive.google.com/drive/u/2/folders/1-NzUSlPNNm7JDprXI1TpQixCWqJHvtzR)
@@ -27,6 +26,7 @@
 * https://github.com/carolinamauro/Probabilidad-y-estadistica
 
 ### Links:
+* [Libros](https://drive.google.com/drive/folders/1HCzWKeZuRSKrdOBGJX8FtnPJvZwxyCc4)
 * [Material Por Guia](https://docs.google.com/spreadsheets/d/1Ua5OBPTVkiaymanxQbbowkSKePxODds8hVyqkyN5gR4/edit#gid=0)
 * [Wiki Fiuba Proba B](http://wiki.foros-fiuba.com.ar/materias:61:09)
 * [Wiki Fiuba Proba A](http://wiki.foros-fiuba.com.ar/materias:61:06)
