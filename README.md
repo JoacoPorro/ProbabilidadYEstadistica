@@ -1,5 +1,5 @@
 # Material Probabilidad Y Estadistica FIUBA
-###### Drives --> jporro@fi.uba.ar
+###### Drives --> repos.libertarias@gmail.com
  
 ### Drives:
 * https://drive.google.com/drive/folders/1tRqQyOwLZJSx4_ZDCwJfFSEjIsBxJu9z (El mejor)
