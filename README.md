@@ -1,5 +1,4 @@
 # Material Probabilidad Y Estadistica FIUBA
-###### Drives --> repos.libertarias@gmail.com 
    
 ### Drives:
 * https://drive.google.com/drive/folders/1tRqQyOwLZJSx4_ZDCwJfFSEjIsBxJu9z (El mejor)
@@ -33,6 +32,6 @@
 * [Wiki Fiuba Proba B](http://wiki.foros-fiuba.com.ar/materias:61:09)
 * [Wiki Fiuba Proba A](http://wiki.foros-fiuba.com.ar/materias:61:06)
 
-##### [Ver mas Repos Libertarias](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
+##### [Ver mas Repos](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
